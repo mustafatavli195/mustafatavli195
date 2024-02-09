@@ -1,17 +1,14 @@
+
+![logo](https://github.com/mustafatavli195/tavli/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Mustafa Tavlı</h1>
 <h3 align="center">A passionate programmer from Türkiye</h3>
 
-<img
-    style="float: right;"
-    alt="coding"
-    width="400"
-    src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"
-/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafatavli195&label=Profile%20views&color=0e75b6&style=flat" alt="mustafatavli195" /> </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p style="text-align: left;">
+    tavlioffical@gmail.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
