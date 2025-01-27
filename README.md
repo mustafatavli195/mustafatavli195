@@ -1,11 +1,13 @@
 # 👋 Hi, I'm Mustafa!
 
-👩🏻‍💻 Passionate programmer journey and learnings in tech<br/>
-👩🏻‍🎓 Studied Computer Programming at the Applied Sciences University of Isparta, Turkey<br/>
-💭 Currently learning about data analytics and back end development<br/>
+<h3>Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/mustafa-tavl%C4%B1-12a5b5238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafa tavlı" height="30" width="40" /></a>
+</p>
 
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=mustafatavli195&=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+👩🏻‍💻 Passionate programmer on a journey of learning and growing in tech.  
+👩🏻‍🎓 Currently studying Computer Programming at the Applied Sciences University of Isparta, Turkey.  
+💭 Currently diving into data analytics and backend development.  
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
@@ -21,21 +23,9 @@
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
+---
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafatavli195&show_icons=true&locale=en&layout=compact" alt="mustafatavli195" /></p>
 
-
-
-<!--
-**mustafatavli195/mustafatavli195** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+![](https://github-readme-stats.vercel.app/api?username=mustafatavli195&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
