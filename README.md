@@ -5,9 +5,9 @@
 <a href="https://www.linkedin.com/in/mustafa-tavl%C4%B1-12a5b5238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafa tavlı" height="30" width="40" /></a>
 </p>
 
-👩🏻‍💻 Passionate programmer on a journey of learning and growing in tech.  
-👩🏻‍🎓 Currently studying Computer Programming at the Applied Sciences University of Isparta, Turkey.  
-💭 Currently diving into data analytics and backend development.  
+👩🏻‍💻 Passionate programmer on a continuous journey of learning and growing in tech.
+💻 Focusing on full-stack web development and building practical, real-world applications.
+💭 Continuously exploring new technologies and improving my skills.
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
