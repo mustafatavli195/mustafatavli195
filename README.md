@@ -1,10 +1,3 @@
-# 👋 Hi, I'm Mustafa!
-
-<h3>Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mustafa-tavl%C4%B1-12a5b5238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafa tavlı" height="30" width="40" /></a>
-</p>
-
 👩🏻‍💻 Passionate programmer on a continuous journey of learning and growing in tech.
 💻 Focusing on full-stack web development and building practical, real-world applications.
 💭 Continuously exploring new technologies and improving my skills.
