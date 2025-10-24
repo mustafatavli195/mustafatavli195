@@ -2,6 +2,7 @@
 💻 Focusing on full-stack web development and building practical, real-world applications.
 💭 Continuously exploring new technologies and improving my skills.
 
+
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
